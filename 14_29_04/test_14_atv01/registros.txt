@@ -1,0 +1,13 @@
+Grace_Jones 872425038 Houston emmamiller@gmail.com 1 
+Reginaldo 123456789 Dinamarca reg@gmail.com 1 
+Jack_Davis 749130256 Dallas alicejohnson@hotmail.com 1 
+Alice_Smith 567813490 Los_Angeles jacktaylor@outlook.com 0 
+Emma_Wilson 314865209 San_Antonio bobdavis@hotmail.com 1 
+Frank_Wilson 167524903 San_Diego davidmiller@outlook.com 1 
+Grace_Johnson 531470286 Phoenix emmawilliams@gmail.com 1 
+Flávia_Marcella 151351 São_João_da_Mata flavia@gmail.com 1 
+Gabriel_Adriano_ 64135145 Pouso_Alegre gabriel@gmail.com 1 
+Gabriel 41656315 São_Paulo lucas@gmail.com 1 
+Larissa 6135153 Alfenas larissa@gmail.com 1 
+Fim    1 
+Fim

@@ -1,0 +1,21 @@
+cubo 3
+paralelogramo 4 5 6
+cilindro 2 3
+esfera 4
+cubo 5
+paralelogramo 3 7 8
+cilindro 4 6
+esfera 6
+cubo 2
+paralelogramo 6 4 9
+cilindro 3 5
+esfera 3
+cubo 4
+paralelogramo 2 8 7
+cilindro 5 4
+esfera 2
+cubo 6
+paralelogramo 8 3 5
+cilindro 6 7
+esfera 5
+fim
